@@ -1,0 +1,906 @@
+{
+    "success": true,
+    "result": {
+        "vendors": {
+            "nobelic": {
+                "vendor_name": "Nobelic",
+                "display_order": 2,
+                "logo_url": "https://pics.iv-cdn.com/logos/Nobelic_3x.png",
+                "models": {
+                    "nbq-1110f": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBQ-1110F"
+                        ]
+                    },
+                    "nblc-2430f": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "NBLC-2430F"
+                        ]
+                    },
+                    "nblr-h0401": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "NBLC-2231F-ASD",
+                            "NBLC-2231F-ASDV2",
+                            "NBLC-2431F-ASD",
+                            "NBLC-2431F-ASDV2",
+                            "NBLC-3231F",
+                            "NBLC-3261Z-SD",
+                            "NBLC-3431F",
+                            "NBLC-3461Z-SD",
+                            "NBLC-6231F",
+                            "NBLC-6431F",
+                            "NBLC-P3101",
+                            "NBLR-H0801",
+                            "NBLR-H1601",
+                            "NBLR-H0401"
+                        ]
+                    },
+                    "nblc-2220f-msd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-3330F-WSD",
+                            "NBLC-4204Z-MSDV2",
+                            "NBLC-4204Z-SD",
+                            "NBLC-4225Z-ASD",
+                            "NBLC-4225Z-ASDV2",
+                            "NBLC-2220F-MSD"
+                        ]
+                    },
+                    "nbq-1210f": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBQ-1210F"
+                        ]
+                    },
+                    "nblc-1110f-msd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "NBLC-2230V-SD",
+                            "NBLC-2230F",
+                            "NBLC-3430V-SD",
+                            "NBLC-2430V-SD",
+                            "NBLC-2420F-MSD",
+                            "NBLC-3130F-WSD",
+                            "NBLC-1310-WMSD",
+                            "NBLC-3230V-SD",
+                            "NBLC-1110F-MSD"
+                        ]
+                    },
+                    "nblc-3230f": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "NBLC-3232Z-SD",
+                            "NBLC-3230F"
+                        ]
+                    },
+                    "nbq-4100f": {
+                        "methods": [
+                            "qr",
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBQ-4100F"
+                        ]
+                    },
+                    "nblc-1210f-wmsd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "NBLC-1210F-WMSD/P",
+                            "NBLC-1210F-WMSD/PV2",
+                            "NBLC-1410F-WMSD",
+                            "NBLC-2210F-WMASD",
+                            "NBLC-1210F-WMSD"
+                        ]
+                    },
+                    "nblc-3430f": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "NBLC-3430F"
+                        ]
+                    },
+                    "nbq-1310f": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBQ-1310F"
+                        ]
+                    },
+                    "nbq-1410f": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBQ-1410F"
+                        ]
+                    },
+                    "nblc-3453f-msd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-3453F-MSD"
+                        ]
+                    },
+                    "nblc-3253z-msd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-3253Z-MSD"
+                        ]
+                    },
+                    "nblc-3453z-msd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-3453Z-MSD"
+                        ]
+                    },
+                    "nblc-2232f-masd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-2232F-MASD"
+                        ]
+                    },
+                    "nblc-2432f-masd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-2432F-MASD"
+                        ]
+                    },
+                    "nblc-1411f-wmsd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-1411F-WMSD",
+                            "NBLC-1411F-WMSDV2"
+                        ]
+                    },
+                    "nblc-2231f-asdv3": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "NBLC-2231F-ASDV2",
+                            "NBLC-2231F-ASDV3"
+                        ]
+                    }
+                }
+            },
+            "hikvision": {
+                "vendor_name": "Hikvision",
+                "display_order": 6,
+                "logo_url": "https://pics.iv-cdn.com/logos/Hikvision_3x.png",
+                "models": {
+                    "ds-2cd2432f-iw": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2432F-IW"
+                        ]
+                    },
+                    "ds-2cd2112-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2112-I"
+                        ]
+                    },
+                    "ds-2cd2432f-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2432F-I"
+                        ]
+                    },
+                    "ds-2cd2032-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2032-I"
+                        ]
+                    },
+                    "ds-2de4220-ae3": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2DE4220-AE",
+                            "DS-2DE2202-DE3",
+                            "DS-2DE4220-AE3"
+                        ]
+                    },
+                    "ds-2cd2022-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2022-I"
+                        ]
+                    },
+                    "ds-2cd2012-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2732F-IS",
+                            "DS-2CD2532F-IWS",
+                            "DS-2CD2532F-IS",
+                            "DS-2CD2332-I",
+                            "DS-2DE2103-DE3W",
+                            "DS-2CD2512F-IWS",
+                            "DS-2CD2612F-IS",
+                            "DS-2CD2132-I",
+                            "DS-2CD2312-I",
+                            "DS-2CD2712F-IS",
+                            "DS-2CD2632F-IS",
+                            "DS-2CD2512F-IS",
+                            "DS-2CD2012-I"
+                        ]
+                    },
+                    "ds-2cd2f22fwd-is": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2F22FWD-IWS",
+                            "DS-2CD2642FWD-IZ",
+                            "DS-2CD2752F-I",
+                            "DS-2CD6424FWD-30",
+                            "DS-2CD1131-I",
+                            "DS-2CD2552F-I",
+                            "DS-2CD2142FWD-I",
+                            "DS-2CD2022WD-I",
+                            "DS-2CD6424FWD-20",
+                            "DS-2CD2T22WD-I5",
+                            "DS-2CD2042WD-I",
+                            "DS-2CD2T42WD-I3",
+                            "DS-2CD2622FWD-I",
+                            "DS-2CD2342WD-I",
+                            "DS-2CD1641FWD-I",
+                            "DS-2CD2122FWD-IW",
+                            "DS-2CD2142FWD-IWS",
+                            "DS-2CD2122FWD-IWS",
+                            "DS-2CD2T42WD-I8",
+                            "DS-2CD2642FWD-IZS",
+                            "DS-2CD1731FWD-I",
+                            "DS-2CD2522FWD-IS",
+                            "DS-2CD2652F-IS",
+                            "DS-2XM6612FWD-I",
+                            "DS-2CD2452F-IW",
+                            "DS-2CD2722FWD-IZS",
+                            "DS-2CD6414FWD-30",
+                            "DS-2CD2F42FWD-IS",
+                            "DS-2CD2052-I",
+                            "DS-2CD1H41WD-IZ",
+                            "DS-2CD1741FWD-I",
+                            "DS-2CD2642FWD-I",
+                            "DS-2XM6612DFWD-I",
+                            "DS-2CD1741FWD-IZ",
+                            "DS-2CD2552F-IS",
+                            "DS-2CD2652F-I",
+                            "DS-2CD2412FWD-IW",
+                            "DS-2CD2352-I",
+                            "DS-2CD2F42FWD-IWS",
+                            "DS-2CD1631FWD-I",
+                            "DS-2CD2T52-I5",
+                            "DS-2CD2722FWD-IS",
+                            "DS-2CD2742FWD-IS",
+                            "DS-2CD1331-I",
+                            "DS-2CD1H31WD-IZ",
+                            "DS-2CD2622FWD-IZS",
+                            "DS-2CD2152F-I",
+                            "DS-2CD2T22WD-I8",
+                            "DS-2CD1731FWD-IZ",
+                            "DS-2CD1341-I",
+                            "DS-2CD2542FWD-IW",
+                            "DS-2CD2542FWD-IWS",
+                            "DS-2CD6414FWD-10",
+                            "DS-2CD2142FWD-IS",
+                            "DS-2CD2F52F-I",
+                            "DS-2CD1631FWD-IZ",
+                            "DS-2CD2752F-IZ",
+                            "DS-2CD2642FWD-IS",
+                            "DS-2CD1141-I",
+                            "DS-2CD2142FWD-IW",
+                            "DS-2CD6424FWD-10",
+                            "DS-2CD2542FWD-I",
+                            "DS-2XM6622DFWD-I",
+                            "DS-2CD2322WD-I",
+                            "DS-2CD1641FWD-IZ",
+                            "DS-2CD2522FWD-IWS",
+                            "DS-2CD2152F-IS",
+                            "DS-2CD2442FWD-IW",
+                            "DS-2CD2752F-IZS",
+                            "DS-2CD2622FWD-IS",
+                            "DS-2CD2T42WD-I5",
+                            "DS-2CD2122FWD-I",
+                            "DS-2CD2T22WD-I3",
+                            "DS-2CD2752F-IS",
+                            "DS-2CD2742FWD-IZS",
+                            "DS-2CD2T52-I8",
+                            "DS-2CD2622FWD-IZ",
+                            "DS-2CD6414FWD-20",
+                            "DS-2CD2422FWD-IW",
+                            "DS-2CD2T52-I3",
+                            "DS-2CD2542FWD-IS",
+                            "DS-2CD2F52F-IS",
+                            "DS-2CD1041-I",
+                            "DS-2CD2122FWD-IS",
+                            "DS-2CD1031-I",
+                            "DS-2CD2652F-IZ",
+                            "DS-2XM6622FWD-I",
+                            "DS-2CD2652F-IZS",
+                            "DS-2CD2F22FWD-IS"
+                        ]
+                    },
+                    "ds-2cd2025fwd-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2385FWD-I",
+                            "DS-2CD2085FWD-I",
+                            "DS-2CD2T35FWD-I5",
+                            "DS-2CD2335FWD-I",
+                            "DS-2CD2T35FWD-I8",
+                            "DS-2CD2355FWD-I",
+                            "DS-2CD2T55FWD-I8",
+                            "DS-2CD2135FWD-IS",
+                            "DS-2CD2055FWD-I",
+                            "DS-2CD2T85FWD-I8",
+                            "DS-2CD2T55FWD-I5",
+                            "DS-2CD2T85FWD-I5",
+                            "DS-2CD2185FWD-I",
+                            "DS-2CD2325FWD-I",
+                            "DS-2CD2125FWD-IM",
+                            "DS-2CD2125FWD-IS",
+                            "DS-2CD2T25FWD",
+                            "DS-2CD2135FWD-I",
+                            "DS-2CD2035FWD-I",
+                            "DS-2CD2125FWD-I",
+                            "DS-2CD2025FWD-I"
+                        ]
+                    },
+                    "ds-7204huhi-f1/n": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-7204HUHI-F1/N"
+                        ]
+                    },
+                    "ds-2cd2412f-i": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2412F-I"
+                        ]
+                    },
+                    "ds-2cd2412f-iw": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "DS-2CD2412F-IW"
+                        ]
+                    }
+                }
+            },
+            "dahua": {
+                "vendor_name": "Dahua",
+                "display_order": 3,
+                "logo_url": "https://pics.iv-cdn.com/logos/Dahua_3x.png",
+                "models": {
+                    "dh-ipc-a15p": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "DH-IPC-A15P"
+                        ]
+                    }
+                }
+            },
+            "iluv": {
+                "vendor_name": "iLuv",
+                "display_order": 6,
+                "logo_url": "https://pics.iv-cdn.com/logos/iLuv_3x.png",
+                "models": {
+                    "mysight": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "mySight"
+                        ]
+                    },
+                    "mysight2k": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "mySight 2K"
+                        ]
+                    }
+                }
+            },
+            "tv-help": {
+                "vendor_name": "TV-Help",
+                "display_order": 10,
+                "logo_url": "https://pics.iv-cdn.com/logos/TVHelp_3x.png",
+                "models": {
+                    "st-i50wsfa2812b": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "ST-I50WSFA2812B"
+                        ]
+                    },
+                    "st-i20whfda4": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "ST-I20WHFDA4"
+                        ]
+                    },
+                    "st-i20whfda6": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "PR20-SZ10X3838B",
+                            "LT24-I25DHVA2812",
+                            "LT13-I40SAG2812B",
+                            "LT24-I60SAG2812B",
+                            "ST-I40WSFA6B",
+                            "LT24-I20DHP2812",
+                            "LT24I20DHTVA36",
+                            "LT24-I40DHTVAG6",
+                            "ST-I30WHFDA2812",
+                            "LT30-I60SAG2812B2",
+                            "LT30-I60SA2812B",
+                            "LT24-I20SDVA2812",
+                            "LT24-I60SA2812B",
+                            "ST-I20WSFA8B",
+                            "LT30-I60SAG2812B",
+                            "LT24-I40SA2812B",
+                            "ST-I40WSFA4B",
+                            "LT30-I25DHVA2812",
+                            "LT24-I40SA2812B2",
+                            "ST-I40WSFA8B",
+                            "LT24-I30DHTVA6",
+                            "LT24-I30DHTVA2812",
+                            "LT24-I30SDA2812",
+                            "ST-I20WHFDA8",
+                            "ST-I20WSFA6B",
+                            "LT30-I30SDA2812",
+                            "PR20-I50SZ10X3838B",
+                            "LT24-I20SDVA2812B",
+                            "LT24-I25DHVA2812B",
+                            "LT13-I20SDVA2812B",
+                            "LT13-I20DHVA2812",
+                            "LT13-I20SDVA2812",
+                            "LT30-I40SA2812B2",
+                            "LT24-I60SAG2812B2"
+                        ]
+                    }
+                }
+            },
+            "ivideon": {
+                "vendor_name": "Ivideon",
+                "display_order": 1,
+                "logo_url": "https://pics.iv-cdn.com/logos/Ivideon_3x.png",
+                "models": {
+                    "bullet": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "Bullet IB12",
+                            "Bullet"
+                        ]
+                    },
+                    "cute-2": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Cute 2",
+                            "Ivideon Cute 2"
+                        ]
+                    },
+                    "cute-360": {
+                        "methods": [
+                            "mac",
+                            "qr",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Cute 360",
+                            "Ivideon Cute 360"
+                        ]
+                    },
+                    "dome": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "Dome",
+                            "Dome ID12-E"
+                        ]
+                    },
+                    "cute": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Cute"
+                        ]
+                    },
+                    "Mera": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Mera"
+                        ]
+                    },
+                    "Atik": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Atik"
+                        ]
+                    },
+                    "bullet-ib13": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Bullet IB13"
+                        ]
+                    },
+                    "cute-3": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Cute 3",
+                            "Ivideon Cute 3"
+                        ]
+                    },
+                    "leo-360": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Leo 360"
+                        ]
+                    },
+                    "cute-3l": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Cute 3L",
+                            "Ivideon Cute 3L"
+                        ]
+                    },
+                    "leo-360l": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Ivideon Leo 360L",
+                            "Leo 360L"
+                        ]
+                    },
+                    "ivideon-2210f-m": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Ivideon Dome ID12-E",
+                            "Ivideon-2210F-M"
+                        ]
+                    },
+                    "ivideon-6220f-m": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Ivideon-6220F-M"
+                        ]
+                    },
+                    "ivideon-2530z-masd": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Ivideon-2530Z-MASD"
+                        ]
+                    }
+                }
+            },
+            "oco": {
+                "vendor_name": "Oco",
+                "display_order": 5,
+                "logo_url": "https://pics.iv-cdn.com/logos/Oco_3x.png",
+                "models": {
+                    "co-14ru": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "1"
+                        ]
+                    },
+                    "ophwd-16us": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro Dome"
+                        ]
+                    },
+                    "op-2220v-asd": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro OP-2220V-ASD"
+                        ]
+                    },
+                    "dahua_c15": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "aliases": [
+                            "HD"
+                        ]
+                    },
+                    "oco2": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "yellow",
+                        "aliases": [
+                            "2"
+                        ]
+                    },
+                    "op-2325f-sd": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro OP-2325F-SD"
+                        ]
+                    },
+                    "op-h0401": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "Pro OP-H0401"
+                        ]
+                    },
+                    "oco-simple": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Simple"
+                        ]
+                    },
+                    "ophwi-16us": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro Indoor"
+                        ]
+                    },
+                    "dh-ipc-a15": {
+                        "methods": [
+                            "qr"
+                        ],
+                        "scanning_led_color": "red",
+                        "aliases": [
+                            "Motion"
+                        ]
+                    },
+                    "ophwb-16us": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro Bullet"
+                        ]
+                    },
+                    "op-2340v-asd": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro OP-2340V-ASD"
+                        ]
+                    },
+                    "op-2220f-msd": {
+                        "methods": [
+                            "mac"
+                        ],
+                        "aliases": [
+                            "Pro OP-2220F-MSD"
+                        ]
+                    }
+                }
+            },
+            "imou": {
+                "vendor_name": "IMOU",
+                "display_order": 4,
+                "logo_url": "https://pics.iv-cdn.com/logos/Imou_x3.png",
+                "models": {
+                    "bullet-lite": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "Bullet Lite"
+                        ]
+                    },
+                    "dome-lite": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "aliases": [
+                            "Dome Lite"
+                        ]
+                    }
+                }
+            },
+            "v": {
+                "vendor_name": "V",
+                "display_order": 1,
+                "logo_url": "https://updates.iv-cdn.com/logos/V_3x.png",
+                "models": {
+                    "v_pictor": {
+                        "methods": [
+                            "mac",
+                            "qr",
+                            "sn"
+                        ],
+                        "scanning_led_color": "orange",
+                        "aliases": [
+                            "V Pictor"
+                        ]
+                    },
+                    "v_ursa": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "",
+                        "aliases": [
+                            "V Ursa"
+                        ]
+                    },
+                    "v_mensa": {
+                        "methods": [
+                            "mac",
+                            "sn"
+                        ],
+                        "scanning_led_color": "",
+                        "aliases": [
+                            "V Mensa"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
