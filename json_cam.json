@@ -237,11 +237,4 @@
                             "Pro OP-2220F-MSD"
                         ]
             },
-            "V": {
-                "models": [
-                            "V Pictor"
-                            "V Ursa"
-                            "V Mensa"
-                        ]
-                    }
-                }
+"V": {"models": ["V Pictor","V Ursa","V Mensa"]}}
